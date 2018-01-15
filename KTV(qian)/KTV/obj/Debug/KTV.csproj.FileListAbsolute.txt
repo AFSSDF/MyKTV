@@ -1,0 +1,169 @@
+E:\MyKTV\KTV\KTV\bin\Debug\KTV.exe.config
+E:\MyKTV\KTV\KTV\bin\Debug\KTV.exe
+E:\MyKTV\KTV\KTV\bin\Debug\KTV.pdb
+E:\MyKTV\KTV\KTV\obj\Debug\KTV.csprojResolveAssemblyReference.cache
+E:\MyKTV\KTV\KTV\obj\Debug\KTV.Properties.Resources.resources
+E:\MyKTV\KTV\KTV\obj\Debug\KTV.csproj.GenerateResource.Cache
+E:\MyKTV\KTV\KTV\obj\Debug\KTV.exe
+E:\MyKTV\KTV\KTV\obj\Debug\KTV.pdb
+E:\MyKTV\KTV\KTV\obj\Debug\KTV.frmzhuye.resources
+E:\MyKTV\KTV\KTV\obj\Debug\KTV.frmgexing.resources
+E:\MyKTV\KTV\KTV\obj\Debug\KTV.frmjinru.resources
+E:\MyKTV\KTV\KTV\obj\Debug\KTV.frmnan.resources
+E:\MyKTV\KTV\KTV\obj\Debug\KTV.frmzuhe.resources
+E:\MyKTV\KTV\KTV\obj\Debug\KTV.frmnv.resources
+E:\MyKTV\KTV\KTV\obj\Debug\KTV.frmzishu.resources
+E:\MyKTV\KTV\KTV\obj\Debug\KTV.frmpinyin.resources
+E:\MyKTV\KTV\KTV\obj\Debug\KTV.frmyidian.resources
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\bin\Debug\KTV.exe.config
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\obj\Debug\KTV.exe
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\obj\Debug\KTV.pdb
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\bin\Debug\KTV.exe
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\bin\Debug\KTV.pdb
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\obj\Debug\KTV.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\obj\Debug\KTV.frmgexing.resources
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\obj\Debug\KTV.frmnan.resources
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\obj\Debug\KTV.frmpinyin.resources
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\obj\Debug\KTV.frmyidian.resources
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\obj\Debug\KTV.frmzishu.resources
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\obj\Debug\KTV.frmzuhe.resources
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\obj\Debug\KTV.frmnv.resources
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\obj\Debug\KTV.frmjinru.resources
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\obj\Debug\KTV.frmzhuye.resources
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\obj\Debug\KTV.Properties.Resources.resources
+C:\Users\Administrator\Documents\Tencent Files\2745859341\FileRecv\KTV\KTV\obj\Debug\KTV.csproj.GenerateResource.Cache
+\\192.168.1.109\MyKTV\KTVqian\KTV\bin\Debug\KTV.exe.config
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\KTV.exe
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\KTV.pdb
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\Interop.WMPLib.dll
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\AxInterop.WMPLib.dll
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\KTV.csproj.ResolveComReference.cache
+\\192.168.1.109\MyKTV\KTVqian\KTV\bin\Debug\KTV.exe
+\\192.168.1.109\MyKTV\KTVqian\KTV\bin\Debug\KTV.pdb
+\\192.168.1.109\MyKTV\KTVqian\KTV\bin\Debug\Interop.WMPLib.dll
+\\192.168.1.109\MyKTV\KTVqian\KTV\bin\Debug\AxInterop.WMPLib.dll
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\KTV.frmgexing.resources
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\KTV.frmpinyin.resources
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\KTV.frmzishu.resources
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\KTV.frmzhuye.resources
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\KTV.Properties.Resources.resources
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\KTV.csproj.GenerateResource.Cache
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\KTV.frmfeilei.resources
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\KTV.frmPai.resources
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\KTV.frmPlay.resources
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\KTV.StartTest.resources
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\KTV.csprojResolveAssemblyReference.cache
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\bin\Debug\KTV.exe
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\bin\Debug\KTV.pdb
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\bin\Debug\Interop.WMPLib.dll
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\bin\Debug\AxInterop.WMPLib.dll
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\bin\Debug\KTV.exe.config
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\Interop.WMPLib.dll
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\AxInterop.WMPLib.dll
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\KTV.csproj.ResolveComReference.cache
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\KTV.frmfeilei.resources
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\KTV.frmgexing.resources
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\KTV.frmPai.resources
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\KTV.frmpinyin.resources
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\KTV.frmPlay.resources
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\KTV.frmzishu.resources
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\KTV.frmzhuye.resources
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\KTV.Properties.Resources.resources
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\KTV.StartTest.resources
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\KTV.csproj.GenerateResource.Cache
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\KTV.exe
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\KTV.pdb
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\KTV.csprojResolveAssemblyReference.cache
+E:\wenjian\Projects\MyKTV\KTVqian\KTV\obj\Debug\KTV.frmgexing1.resources
+\\192.168.1.109\MyKTV\KTVqian\KTV\obj\Debug\KTV.frmgexing1.resources
+G:\茅草屋Ktv\KTVqian\KTV\bin\Debug\KTV.exe.config
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\Interop.WMPLib.dll
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\AxInterop.WMPLib.dll
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.csproj.ResolveComReference.cache
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.exe
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.pdb
+G:\茅草屋Ktv\KTVqian\KTV\bin\Debug\KTV.exe
+G:\茅草屋Ktv\KTVqian\KTV\bin\Debug\KTV.pdb
+G:\茅草屋Ktv\KTVqian\KTV\bin\Debug\Interop.WMPLib.dll
+G:\茅草屋Ktv\KTVqian\KTV\bin\Debug\AxInterop.WMPLib.dll
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.csprojResolveAssemblyReference.cache
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmfeilei.resources
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmgexing.resources
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmgexing1.resources
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmPai.resources
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmpinyin.resources
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmPlay.resources
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmzishu.resources
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmzhuye.resources
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.Properties.Resources.resources
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.StartTest.resources
+G:\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.csproj.GenerateResource.Cache
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\bin\Debug\KTV.exe.config
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\Interop.WMPLib.dll
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\AxInterop.WMPLib.dll
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.csproj.ResolveComReference.cache
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.exe
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.pdb
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\bin\Debug\KTV.exe
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\bin\Debug\KTV.pdb
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\bin\Debug\Interop.WMPLib.dll
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\bin\Debug\AxInterop.WMPLib.dll
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.csprojResolveAssemblyReference.cache
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmfeilei.resources
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmgexing.resources
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmgexing1.resources
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmjiu.resources
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmPai.resources
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmpinyin.resources
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmPlay.resources
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmzishu.resources
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.frmzhuye.resources
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.Properties.Resources.resources
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.StartTest.resources
+E:\MyKTV\茅草屋Ktv\KTVqian\KTV\obj\Debug\KTV.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\KTVqian\KTV\bin\Debug\KTV.exe.config
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\KTV.csproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\KTV.exe
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\KTV.pdb
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\KTV.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\KTV.frmfeilei.resources
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\KTV.frmgexing.resources
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\KTV.frmgexing1.resources
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\KTV.frmjiu.resources
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\KTV.frmPai.resources
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\KTV.frmpinyin.resources
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\KTV.frmPlay.resources
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\KTV.frmzishu.resources
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\KTV.frmzhuye.resources
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\KTV.Properties.Resources.resources
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\KTV.StartTest.resources
+C:\Users\Administrator\Desktop\KTVqian\KTV\obj\Debug\KTV.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\KTVqian\KTV\bin\Debug\KTV.exe
+C:\Users\Administrator\Desktop\KTVqian\KTV\bin\Debug\KTV.pdb
+C:\Users\Administrator\Desktop\KTVqian\KTV\bin\Debug\Interop.WMPLib.dll
+C:\Users\Administrator\Desktop\KTVqian\KTV\bin\Debug\AxInterop.WMPLib.dll
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\bin\Debug\KTV.exe.config
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\Interop.WMPLib.dll
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\AxInterop.WMPLib.dll
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\KTV.csproj.ResolveComReference.cache
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\KTV.exe
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\KTV.pdb
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\bin\Debug\KTV.exe
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\bin\Debug\KTV.pdb
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\bin\Debug\Interop.WMPLib.dll
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\bin\Debug\AxInterop.WMPLib.dll
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\KTV.csprojResolveAssemblyReference.cache
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\KTV.frmfeilei.resources
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\KTV.frmgexing.resources
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\KTV.frmgexing1.resources
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\KTV.frmjiu.resources
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\KTV.frmPai.resources
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\KTV.frmpinyin.resources
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\KTV.frmPlay.resources
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\KTV.frmzishu.resources
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\KTV.frmzhuye.resources
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\KTV.Properties.Resources.resources
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\KTV.StartTest.resources
+E:\wenjian\Projects\MyKTV\KTV\KTVqian\KTV\obj\Debug\KTV.csproj.GenerateResource.Cache
