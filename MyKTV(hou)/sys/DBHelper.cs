@@ -9,7 +9,7 @@ namespace MyKTV.sys
 {
     class DBHelper
     {
-        private string strCon = "Data Source=192.168.1.102;Initial Catalog=MyKTV;User ID=sa;Pwd=123456";
+        private string strCon = "Data Source=.;Initial Catalog=MyKTV;User ID=sa;Pwd=123456";
         private SqlConnection _conn;
 
         public SqlConnection Conn
